@@ -16,6 +16,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 - ⚖ [Legal](#legal)
 - © [License](#license)
 
+
 ## How to use?
 
 Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
